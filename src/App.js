@@ -10,6 +10,7 @@ export const App = () => {
         <h1>Janith</h1>
       </div>
       <Footer />
+      
     </>
   );
 }
