@@ -1,8 +1,13 @@
-const App = () => {
+import './App.css';
+
+export const App = () => {
   return (
     <div>
-        <h1> Hello </h1>
+      <h1> Janith </h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, omnis.
+      </p>
     </div>
-  )
+  );
 }
-export default App;
+
